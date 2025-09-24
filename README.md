@@ -1,16 +1,65 @@
-# React + Vite
+# 🏷️ Theo Wongkar - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This website showcases information about me, my skills, education, work experience, projects, and services.
 
-Currently, two official plugins are available:
+## ✨ Feature
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🏠 Home
+- 🤷‍♂️ About
+- 🏗️ Projects
+- 🗂️ Services
+- 📞 Contact
+- 📲 Responsive
+- 🕹️ Interactive
 
-## React Compiler
+## ⚙️ Technology
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React JS
+- Tailwind CSS
+- React Icon
+- React Bits
+- React Three Drei
+- React Three Fiber
+- React Three Rapier
+- GSAP
+- Meshline
+- Framer Motion
+- Shields.io
 
-## Expanding the ESLint configuration
+## 🛠️ Installation and Setup
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone repository:
+
+   ```bash
+   git clone https://github.com/theowongkar/portfolio.git
+   cd portfolio
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install && npm run build
+   ```
+
+3. Run local server:
+
+   ```bash
+   npm run dev
+   ```
+
+4. Open the browser and access http://localhost:5173
+
+## 🌐 Demo
+
+- Visit my portfolio at: [https://theowongkar.info](https://theowongkar.info)
+
+## 📬 Contact
+
+- Email: [theowongkar.tech@gmail.com](mailto:theowongkar.tech@gmail.com)
+- Instagram: [theowongkar](https://instagram.com/theowongkar)
+- TikTok: [@theowongkar](https://tiktok.com/@theowongkar)
+- LinkedIn: [theowongkar](https://linkedin.com/in/theowongkar)
+
+---
+
+Thank you for visiting my portfolio!
