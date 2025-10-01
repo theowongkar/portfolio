@@ -5,10 +5,10 @@ import { SiGmail } from "react-icons/si";
 export const socials = [
   {
     id: 1,
-    name: "GitHub",
-    label: FaGithub,
-    description: "theowongkar",
-    href: "https://github.com/theowongkar",
+    name: "Email",
+    label: SiGmail,
+    description: "theowongkar.tech@gmail.com",
+    href: "mailto:theowongkar.tech@gmail.com",
   },
   {
     id: 2,
@@ -19,10 +19,10 @@ export const socials = [
   },
   {
     id: 3,
-    name: "Email",
-    label: SiGmail,
-    description: "theowongkar.tech@gmail.com",
-    href: "mailto:theowongkar.tech@gmail.com",
+    name: "GitHub",
+    label: FaGithub,
+    description: "theowongkar",
+    href: "https://github.com/theowongkar",
   },
   {
     id: 4,

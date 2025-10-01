@@ -56,9 +56,11 @@ Welcome to my personal portfolio! This website showcases information about me, m
 ## 📬 Contact
 
 - Email: [theowongkar.tech@gmail.com](mailto:theowongkar.tech@gmail.com)
-- Instagram: [theowongkar](https://instagram.com/theowongkar)
+- Website: [theowongkar.info](https://theowongkar.info)
+- LinkedIn: [in/theowongkar](https://linkedin.com/in/theowongkar)
+- Github: [theowongkar](https://github.com/theowongkar)
+- Instagram: [@theowongkar](https://instagram.com/theowongkar)
 - TikTok: [@theowongkar](https://tiktok.com/@theowongkar)
-- LinkedIn: [theowongkar](https://linkedin.com/in/theowongkar)
 
 ---
 

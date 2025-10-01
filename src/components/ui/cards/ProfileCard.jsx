@@ -1,10 +1,13 @@
+import avatar from "@/assets/images/transparent-profile-picture.webp";
+import background from "@/assets/images/coding.webp";
+
 export default function ProfileCard({
   name = "Theoterra Wongkar",
   title = "Web Developer",
   handle = "theowongkar",
   status = true,
-  avatarUrl = "/src/assets/images/transparent-profile-picture.webp",
-  backgroundUrl = "/src/assets/images/coding.webp",
+  avatarUrl = avatar,
+  backgroundUrl = background,
 }) {
   return (
     <div

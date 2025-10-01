@@ -10,7 +10,7 @@ export const services = [
       className: "bg-cyan-800",
     },
     description:
-      "Website creation services (Landing Page, Company Profile/SME, School/Organization Website, Online Store, Government/Institution Website)",
+      "Website creation services (Landing Page, Company Profile/SME, School/Organization Website, Online Store, Government/Institution Website).",
     image: "/images/galery/pricelist-website.webp",
     actions: [
       {
@@ -37,7 +37,7 @@ export const services = [
       className: "bg-indigo-800",
     },
     description:
-      "Discord server creation services (Public Communities, Schools/Organizations, Online Stores/Brands)",
+      "Discord server creation services (Public Communities, Schools/Organizations, Online Stores/Brands).",
     image: "/images/galery/pricelist-discord.webp",
     actions: [
       {
@@ -64,7 +64,7 @@ export const services = [
       className: "bg-lime-800",
     },
     description:
-      "Biofloc Tilapia Cultivation (Black & Red Tilapia, Ready-to-Spread Seeds, Consumption, Consultation & Mentoring)",
+      "Biofloc Tilapia Cultivation (Black & Red Tilapia, Ready-to-Spread Seeds, Consumption, Consultation & Mentoring).",
     image: "/images/galery/pricelist-wusa.webp",
     actions: [
       {
