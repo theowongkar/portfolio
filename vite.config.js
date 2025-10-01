@@ -11,4 +11,5 @@ export default defineConfig({
       "@": path.resolve("./src"),
     },
   },
+  assetsInclude: ["**/*.glb"],
 });
