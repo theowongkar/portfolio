@@ -9,6 +9,9 @@ import TimeLine from "../components/ui/timeline/TimeLine";
 import CustomCard from "../components/ui/cards/CustomCard";
 import GridCard from "../components/ui/cards/GridCard";
 import Lanyard from "../components/ui/cards/Lanyard";
+import CircularText from "../components/ui/text-animations/CircularText";
+import Magnet from "../components/ui/animations/Magnet";
+import TextType from "../components/ui/text-animations/TextType";
 
 import { jobTitles } from "@/data/job-titles";
 import { socials } from "@/data/socials";
@@ -18,8 +21,7 @@ import { projects } from "@/data/projects";
 import { services } from "@/data/services";
 
 import { MdPushPin } from "react-icons/md";
-import CircularText from "../components/ui/text-animations/CircularText";
-import Magnet from "../components/ui/animations/Magnet";
+import { Button } from "@mui/material";
 
 const galeryItems = [
   `/images/galery/kmi-awards.webp`,
@@ -338,6 +340,26 @@ export default function Home() {
                   actions={service.actions}
                 />
               ))}
+            </div>
+
+            {/* Read More */}
+            <div className="flex items-center justify-center mt-10">
+              <div className="flex-grow border-y border-primary"></div>
+              <Button
+                href="/services"
+                variant="contained"
+                color="success"
+                className="!mx-4 w-52 !bg-gradient-to-r !from-primary/60 !to-secondary/40 !hover:bg-green-900"
+              >
+                <TextType
+                  text={["Read More...", "Live Demo..."]}
+                  typingSpeed={75}
+                  pauseDuration={2500}
+                  showCursor={true}
+                  cursorCharacter="|"
+                />
+              </Button>
+              <div className="flex-grow border-y border-primary"></div>
             </div>
           </div>
         </section>
